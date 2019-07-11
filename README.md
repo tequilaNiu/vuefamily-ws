@@ -4,10 +4,15 @@
 ```
 yarn install
 ```
+### Start Server
+```
+yarn run js
+yarn run ws
+```
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+yarn run dev
 ```
 
 ### Compiles and minifies for production
