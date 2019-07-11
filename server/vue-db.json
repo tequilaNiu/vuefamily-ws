@@ -1,0 +1,13 @@
+{
+  "tabs": [{
+		"key": "applyList",
+    "name": "已申请"
+  }, {
+		"key": "completeList",
+    "name": "已完成"
+  }, {
+    "key": "deleteList",
+    "name": "已删除"
+  }]
+}
+
